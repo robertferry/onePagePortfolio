@@ -1,2 +1,2 @@
-# onePagePortfolio
-One page portfolio with javascript css html
+# button-event-listener
+This is for a navigation switching method using javascript html css
